@@ -1,4 +1,3 @@
-
 <img align="center" alt="Coding" width="500" src="2000_600px.gif">
 
 <h1 align="center">Hi 👋, I'm muntazir halim</h1>
