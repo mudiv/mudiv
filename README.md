@@ -29,7 +29,7 @@
   <a href="https://stackoverflow.com/users/18307259/muntazir-halim" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_v_go" target="_blank">
+  <a href="https://instagram.com/muntazirhalim" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
